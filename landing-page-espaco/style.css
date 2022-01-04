@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    min-width: 100%;
+}
+
+body{
+    background-image: linear-gradient(to left bottom, #800080, rgba(0, 0, 255, 0.801));
+    background-size: 100vw;
+    color: black;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+header h1{
+    padding: 10px; 
+}
+
+header nav{
+    padding: 20px;
+}
+
+main{
+    background-color: white;
+}
+
+main img{
+   
+}
