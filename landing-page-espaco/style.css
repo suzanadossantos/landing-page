@@ -1,5 +1,14 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
+
+:root{
+    --fonte-principal: 'Merriweather', serif;
+    --fonte-padrao: 'Ubuntu', sans-serif;
+}
+
 *{
     margin: 0px;
     padding: 0px;
@@ -20,13 +29,16 @@ header{
     justify-content: space-between;
     gap: 30px;
     padding: 24px;
+    margin: 25px;
     font-variant: small-caps;
+    background-color: rgba(0, 0, 0, 0.062);
 }
 
 header h1{
-    font-size: 4vw;
+    font-size: 3.2vw;
     color: black;
     text-shadow: 1.8px 2px 2px black;
+    font-family: var(--fonte-principal);
 }
 
 header nav{
@@ -37,9 +49,63 @@ header nav{
 header nav a{
     text-decoration: none;
     color: white;
-    font-size: 2vw;
+    font-size: 1.3vw;
+    font-family: var(--fonte-padrao);
+}
+
+header nav a:hover{
+    color: rgb(0, 0, 0);
+    font-size: 1.7vw;
+    text-decoration: underline;
 }
 
 main{
-    background-color: white;
+    margin: auto;
+    font-family: var(--fonte-padrao);
+    color: white;
+    font-size: 1.6vw;
 }
+
+main section#primeira{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 30px;
+    margin: 20px;
+}
+
+main section#segunda{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 30px;
+    margin: 20px;
+}
+
+main section img{
+    max-width: 900px;
+    min-width: 500px;
+}
+
+main section p{
+    max-width: 500px;
+}
+
+footer{
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+footer p{
+    text-decoration: none;
+    color: black;
+    font-family: var(--fonte-padrao);
+    font-size: 1.5vw;
+}
+
