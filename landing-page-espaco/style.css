@@ -89,6 +89,7 @@ main section#segunda{
 main section img{
     width: 30%;
     box-shadow: 1.2px 2px 3px black;
+    background-attachment: fixed;
 }
 
 main section p{
@@ -112,5 +113,6 @@ footer p{
 footer p a:hover{
     color: blueviolet;
     text-decoration: underline;
+    font-size: 1.7vw;
 }
 
