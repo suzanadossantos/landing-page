@@ -69,7 +69,7 @@ main{
 main section#primeira{
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-around;
     gap: 20px;
     padding: 30px;
@@ -79,20 +79,20 @@ main section#primeira{
 main section#segunda{
     display: flex;
     flex-direction: row-reverse;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-around;
-    gap: 20px;
+    gap: 10px;
     padding: 30px;
     margin: 20px;
 }
 
 main section img{
-    max-width: 900px;
-    min-width: 500px;
+    width: 30%;
+    box-shadow: 1.2px 2px 3px black;
 }
 
 main section p{
-    max-width: 500px;
+    width: 1200px;
 }
 
 footer{
@@ -107,5 +107,10 @@ footer p{
     color: black;
     font-family: var(--fonte-padrao);
     font-size: 1.5vw;
+}
+
+footer p a:hover{
+    color: blueviolet;
+    text-decoration: underline;
 }
 
