@@ -4,35 +4,42 @@
     margin: 0px;
     padding: 0px;
     text-decoration: none;
-    min-width: 100%;
+    box-sizing: border-box;
 }
 
 body{
     background-image: linear-gradient(to left bottom, #800080, rgba(0, 0, 255, 0.801));
-    background-size: 100vw;
     color: black;
 }
 
 header{
     display: flex;
     flex-direction: row;
+    flex-wrap: nowrap;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    gap: 30px;
     padding: 24px;
+    font-variant: small-caps;
 }
 
 header h1{
-    padding: 10px; 
+    font-size: 4vw;
+    color: black;
+    text-shadow: 1.8px 2px 2px black;
 }
 
 header nav{
-    padding: 20px;
+    display: flex;
+    gap: 20px;  
+}
+
+header nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 2vw;
 }
 
 main{
     background-color: white;
-}
-
-main img{
-   
 }
