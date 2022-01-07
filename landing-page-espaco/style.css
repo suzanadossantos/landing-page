@@ -36,7 +36,7 @@ header{
 
 header h1{
     font-size: 3.2vw;
-    color: black;
+    color: white;
     text-shadow: 1.8px 2px 2px black;
     font-family: var(--fonte-principal);
 }
