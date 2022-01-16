@@ -1,0 +1,124 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-image: linear-gradient(to right, rgba(238, 1, 1, 0.767), rgb(255, 255, 255));
+    background-size: 100%;
+    color: black;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px; 
+    margin: 15px;
+    padding: 10px;
+    box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.274);
+}
+
+header img{
+    width: 50px;
+    border-radius: 230px;
+    overflow: hidden;
+}
+
+header nav{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 30px;
+    font-size: 1.2em;
+}
+
+header nav a{
+    color: black;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+header nav a:hover{
+    font-size: 1.2em;
+}
+
+main div#conteudo{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+main h1{
+    color: black;
+    margin: 30px 15px;
+    padding: 10px;
+    text-align: left;
+    font-family: 'Dongle', sans-serif;
+    font-size: 7em;
+}
+
+main img{
+    width: 40%;
+}
+
+main div{
+    padding: 10px;
+}
+
+main div .sub-titulo{
+    box-shadow: inset 3px 0px 0px rgb(0, 0, 0);
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+main div p{
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.527);
+    padding: 7px;
+}
+
+footer p{
+    color: white;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+@media (max-width: 1024px){
+    
+    main h1{
+        font-size: 5em;
+        text-align: center;
+    }
+
+    main img{
+        width: 60%;
+        margin: auto;
+    }
+    
+    main div#conteudo{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    main div .sub-titulo{
+        box-shadow: inset 3px 0px 0px rgb(244, 248, 0);
+    }
+
+}
