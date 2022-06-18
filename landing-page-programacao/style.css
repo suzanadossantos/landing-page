@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-image: linear-gradient(305deg, #9c95ff 0, #1f5df1 50%, #002fc4 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Joan', serif;
+    color: white;
+}
+
+header{
+    font-family: 'Joan', serif;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    margin: 10px;
+}
+
+header img{
+    width: 60px;
+    margin: 20px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+nav a{
+    font-family: 'Joan', serif;
+    text-decoration: none;
+    color: white;
+}
+
+
+main{
+    font-family: 'Joan', serif;
+}
+
+main div#conteudo{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+    margin: 20px;
+}
+
+main div#conteudo img{
+    width: 300px;
+}
+
+main div#conteudo2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+main div#conteudo2 p{
+    width: 40vw;
+}
+
