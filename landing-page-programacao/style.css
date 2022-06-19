@@ -2,57 +2,64 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
 
-*{
+* {
     margin: 0px;
     padding: 0px;
     text-decoration: none;
     box-sizing: border-box;
 }
 
-body{
-    height: 100vh;
-    background-image: linear-gradient(305deg, #9c95ff 0, #1f5df1 50%, #002fc4 100%);
-    background-repeat: no-repeat;
-    background-size: cover;
+body {
     font-family: 'Joan', serif;
-    color: white;
+    color: black;
 }
 
-header{
+header {
     font-family: 'Joan', serif;
     font-size: 15px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 20px;
-    margin: 10px;
+    margin: 5px 20px;
 }
 
-header img{
+header div.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header img {
     width: 60px;
     margin: 20px;
 }
 
-nav{
+nav {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
-    gap: 20px;
+    gap: 25px;
 }
 
-nav a{
-    font-family: 'Joan', serif;
+nav a {
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
+nav a:hover {
+    transition: 2ms;
+    color: #003cc1;
+}
 
-main{
+main {
     font-family: 'Joan', serif;
+    margin-top: 50px;
 }
 
-main div#conteudo{
+main div#conteudo {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
@@ -61,11 +68,20 @@ main div#conteudo{
     margin: 20px;
 }
 
-main div#conteudo img{
-    width: 300px;
+main div#conteudo div#background {
+    background: url(imagens/background.png);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
-main div#conteudo2{
+main div#conteudo div#background img {
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+    width: 100%;
+}
+
+main div#conteudo2 {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -73,7 +89,26 @@ main div#conteudo2{
     gap: 20px;
 }
 
-main div#conteudo2 p{
+main div#conteudo2 p {
     width: 40vw;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+main div#conteudo2 button {
+    cursor: pointer;
+    background-image: radial-gradient(circle at 103.49% 45.32%, #9eb3ff 0, #1e73f3 50%, #003cc1 100%);
+    width: 90px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 0.9px 0.5px 1px rgba(0, 0, 0, 0.623);
+    font-family: 'Joan', serif;
+    font-size: 16px;
+    color: white;
+}
+
+main div#conteudo2 button:hover {
+    transition: 2ms;
+    background-image: none;
+    color: black;
+}
