@@ -17,3 +17,7 @@ Projetos de landing page...
 ## 👩🏻‍💻 Projeto Programação: <a href="https://suzanadossantos.github.io/landing-page/landing-page-programacao/">Link</a>
 
 ![Captura de Tela (18)](https://user-images.githubusercontent.com/94690066/209662683-455fab86-5dd7-4f4f-8321-334a3714ca42.png)
+
+## ✈️ Projeto Blog: <a href="https://suzanadossantos.github.io/landing-page/landing-page-programacao/">Link</a>
+
+![Captura de Tela (42)](https://user-images.githubusercontent.com/94690066/219959141-230e4d20-2356-499f-b476-3f9c391ecdd2.png)
