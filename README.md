@@ -20,4 +20,4 @@ Projetos de landing page...
 
 ## ✈️ Projeto Blog: <a href="https://suzanadossantos.github.io/landing-page/landing-page-blog/">Link</a>
 
-![Captura de Tela (42)](https://user-images.githubusercontent.com/94690066/219959141-230e4d20-2356-499f-b476-3f9c391ecdd2.png)
+![Captura de Tela (43)](https://user-images.githubusercontent.com/94690066/219959682-da0ceaa9-ad4a-4c32-b2c5-792b0688e96f.png)
