@@ -8,7 +8,7 @@ Projetos de landing page...
 
 ## 🌍 Projeto Espaço: <a href="https://suzanadossantos.github.io/landing-page/landing-page-espaco/">Link</a>
 
-![Captura de Tela (16)](https://user-images.githubusercontent.com/94690066/209662570-d5d65860-3b7d-4f65-977f-0f3e353c2a0b.png)
+![Captura de Tela (80)](https://github.com/suzanadossantos/landing-page/assets/94690066/5a634c83-4408-4684-8a68-c6a0761a864c)
 
 ## ⚡ Projeto Flash: <a href="https://suzanadossantos.github.io/landing-page/landing-page-flash/">Link</a>
 
