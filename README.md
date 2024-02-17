@@ -1,23 +1,33 @@
-#  landing-page
+#  Landing page
 
-Projetos de landing page...
+Nesse respositório estão alguns projetos de landing page
 
-## 🤖 Projeto Balle Bot: <a href="https://suzanadossantos.github.io/landing-page/landing-page-ballebot/">Link</a></p>
- 
-![Captura de Tela (15)](https://user-images.githubusercontent.com/94690066/209662394-82c64932-cec4-4664-ad8c-f795cf08f4b6.png)
+### 🤖 Projeto Balle Bot: 
+<a href="https://suzanadossantos.github.io/landing-page/landing-page-ballebot/">Projeto</a>  |  <a href="https://github.com/suzanadossantos/landing-page/tree/main/landing-page-ballebot">Repositório</a> 
+<br><br>
+![image](https://github.com/suzanadossantos/landing-page/assets/94690066/48f595a8-45d3-4f75-94b5-d05b9385d4d1)
+<br>
 
-## 🌍 Projeto Espaço: <a href="https://suzanadossantos.github.io/landing-page/landing-page-espaco/">Link</a>
+### 🌍 Projeto Espaço:  
+<a href="https://suzanadossantos.github.io/landing-page/landing-page-espaco/">Projeto</a> | <a href="https://github.com/suzanadossantos/landing-page/tree/main/landing-page-espaco">Repositório</a>
+<br><br>
+![image](https://github.com/suzanadossantos/landing-page/assets/94690066/941e8c20-c078-45ef-bcc0-21c6e216b54c)
+<br>
 
-![Captura de Tela (80)](https://github.com/suzanadossantos/landing-page/assets/94690066/5a634c83-4408-4684-8a68-c6a0761a864c)
+## ⚡ Projeto Flash: 
+<a href="https://suzanadossantos.github.io/landing-page/landing-page-flash/">Projeto</a> | <a href="https://github.com/suzanadossantos/landing-page/tree/main/landing-page-flash">Repositório</a>
+<br><br>
+![image](https://github.com/suzanadossantos/landing-page/assets/94690066/81ce3421-58d4-4f3e-b9c9-00910765651f) 
+<br>
 
-## ⚡ Projeto Flash: <a href="https://suzanadossantos.github.io/landing-page/landing-page-flash/">Link</a>
+## 👩🏻‍💻 Projeto Programação: 
+<a href="https://suzanadossantos.github.io/landing-page/landing-page-programacao/">Projeto</a> | <a href="https://github.com/suzanadossantos/landing-page/tree/main/landing-page-programacao">Repositório</a>
+<br><br>
+![image](https://github.com/suzanadossantos/landing-page/assets/94690066/a53d3d28-4d90-486a-9d5d-4bb23846b9d9)
+<br>
 
-![Captura de Tela (17)](https://user-images.githubusercontent.com/94690066/209662650-5e8e8313-c597-4f12-ac5f-46164bac1be8.png)
-
-## 👩🏻‍💻 Projeto Programação: <a href="https://suzanadossantos.github.io/landing-page/landing-page-programacao/">Link</a>
-
-![Captura de Tela (18)](https://user-images.githubusercontent.com/94690066/209662683-455fab86-5dd7-4f4f-8321-334a3714ca42.png)
-
-## ✈️ Projeto Blog: <a href="https://suzanadossantos.github.io/landing-page/landing-page-blog/">Link</a>
-
-![Captura de Tela (43)](https://user-images.githubusercontent.com/94690066/219959682-da0ceaa9-ad4a-4c32-b2c5-792b0688e96f.png)
+## ✈️ Projeto Blog: 
+<a href="https://suzanadossantos.github.io/landing-page/landing-page-blog/">Projeto</a> | <a href="https://github.com/suzanadossantos/landing-page/tree/main/landing-page-blog">Repositório</a>
+<br><br>
+![image](https://github.com/suzanadossantos/landing-page/assets/94690066/d534dde3-d8b0-49e5-9234-10ade6b41000)
+<br>
